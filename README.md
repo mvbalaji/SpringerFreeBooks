@@ -1,3 +1,3 @@
 # SpringerFreeBooks
 
-Contains MAchine Learning/Python/Deep Learning/R relaed books available from Springer. 
+Contains Machine Learning/Python/Deep Learning/R related books available from Springer. 
